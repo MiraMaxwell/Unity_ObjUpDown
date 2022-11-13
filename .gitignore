@@ -1,0 +1,9 @@
+# blacklist everything
+*
+
+# whitelist
+!/.gitignore
+!/LICENSE
+!/README.md
+
+!/Assets/Script/ObjUpDown.cs
